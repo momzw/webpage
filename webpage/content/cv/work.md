@@ -9,7 +9,7 @@ Assistance jobs at the University of Bern.
 
 <!--more-->
 
-<hr style="border-top: 2px dotted #112F41;"/>
+<hr style="border-top: 2px #112F41;"/>
 
 <span style="font-size:1.2em;">**Research Assistant**</span>, Astronomical Institute, 
 University of Bern <div style="text-align: right"> Aug. 2020 - today </div> <br>
@@ -19,7 +19,7 @@ University of Bern <div style="text-align: right"> Aug. 2020 - today </div> <br>
 Station and Geodynamics Observatory Zimmerwald_</a>'s night operation once a week.
 - Acquiring photometrical images and light curve measurements for the identification of unresolved space objects.
 
-<hr style="border-top: 2px dotted #112F41;"/>
+<hr style="border-top: 2px #112F41;"/>
 
 <span style="font-size:1.2em;">**Teaching Assistant**</span>, Space Institute, 
 University of Bern <div style="text-align: right"> Sep. 2022 - June 2023 </div> <br>

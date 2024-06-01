@@ -16,11 +16,18 @@ and navigation, and in the worst case can induce currents in our power grid lead
 
 Since 1974, X-ray flares are automatically detected and classified by the 
 National Oceanic and Atmospheric Administration’s (NOAA) GOES satellites in the 1–8 Å wavelength range. 
-Based on peak soft X-ray flux in this range, flares are logarithmically classified as A, B, C, M, and X, from weaker 
-to stronger.
+Based on peak soft X-ray flux in this range, flares are logarithmically **classified as A, B, C, M, and X, from weaker 
+to stronger**.
 
 Some of the major challenges the flare-forecasting researchers are up against are rooted in the rarity of the events of
-interest, the high dimensionality of observational data, and the dynamic behavior of the Sun.
+interest, the high dimensionality of observational data, and the **dynamic behavior of the Sun**.
 
 We still do not completely understand all the physical mechanisms driving solar flares. In particular, we do not know 
-if and when an active region will produce a flare or how strong it may be. 
+if and when an active region will produce a flare or how strong it may be. This is where machine learning \& **deep 
+learning** comes into play. 
+
+Using various state-of-the-art ML architectures, my goal is to **build a prediction framework** as precise as possible.
+Let's see how well this goes!
+
+
+

@@ -16,7 +16,7 @@ Einstein's theory of general relativity and deriving the Standard Model of parti
 Although my master's was in theoretical physics, the University of Bern allowed me to write my thesis in the field of exoplanetary sciences.
 Recently, the community started to delve deeper into the research of exomoons and I was able to contribute by creating a 
 Monte-Carlo simulation module that allows for the tracking of material evaporated from moons akin to Jupiter's Io. \
-You can find my paper on that topic [here](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JE007935)! 
+You can find my most recent paper on that topic [here](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JE007935)! 
 
 Now, I'm a PhD student and I shifted my focus from exoplanets and theoretical physics to machine learning and solar physics.
 

@@ -10,12 +10,12 @@ at the University of Bern.
 
 <!--more-->
 
-<hr style="border-top: 2px dotted #112F41;"/>
+<hr style="border-top: 2px #112F41;"/>
 
 <span style="font-size:1.2em;">**PhD**</span> in Physics with special qualification in Astronomy, 
 University of Bern <div style="text-align: right"> Sep. 2023 - today </div>
 
-<hr style="border-top: 2px dotted #112F41;"/>
+<hr style="border-top: 2px #112F41;"/>
 
 <span style="font-size:1.2em;">**Master**</span> of Science in Theoretical Physics, 
 University of Bern <div style="text-align: right"> Sep. 2021 - June 2023 </div> <br>
@@ -29,7 +29,7 @@ University of Bern),
 University of Bern)
 - with Latin honors _insigni cum laude_
 
-<hr style="border-top: 2px dotted #112F41;"/>
+<hr style="border-top: 2px #112F41;"/>
 
 <span style="font-size:1.2em;">**Bachelor**</span> of Science in Physics, 
 University of Bern <div style="text-align: right"> Sep. 2018 - Nov 2021 </div> <br>
@@ -43,7 +43,7 @@ University of Bern <div style="text-align: right"> Sep. 2018 - Nov 2021 </div> <
 (Astronomical Institute, University of Bern)
 - with Latin honors _magna cum laude_
 
-<hr style="border-top: 2px dotted #112F41;"/>
+<hr style="border-top: 2px #112F41;"/>
 
 German A-levels (Abitur), Gymnasium Melle <div style="text-align: right"> Aug. 2016 - June 2018 </div> <br>
 
