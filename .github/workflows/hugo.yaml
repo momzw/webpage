@@ -78,4 +78,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
         with:
-          target-folder: webpage
+          target-folder: webpage/public
