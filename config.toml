@@ -1,7 +1,11 @@
-baseURL = 'https://momzw.github.io/'
+baseURL = 'https://momzw.github.io/webpage'
 languageCode = 'en-us'
 title = 'My Personal Webpage'
 theme = 'personal-web'
+enableEmoji=true
+enableRobotsTXT=true
+pygmentsUseClasses=true
+pygmentsCodeFences=true
 
 [params.intro]
     main = "Hi, I'm Moritz :wave:"
