@@ -2,6 +2,7 @@ baseURL = 'https://momzw.github.io/webpage/'
 languageCode = 'en-us'
 title = 'My Personal Webpage'
 theme = 'personal-web'
+relativeURLs = true
 
 [params.intro]
     main = "Hi, I'm Moritz :wave:"
