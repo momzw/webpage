@@ -6,6 +6,7 @@ enableEmoji=true
 enableRobotsTXT=true
 pygmentsUseClasses=true
 pygmentsCodeFences=true
+canonifyURLs=true
 
 [params.intro]
     main = "Hi, I'm Moritz :wave:"
@@ -33,9 +34,9 @@ pygmentsCodeFences=true
     p = "It seems that this page doesn't exist."
 
 [params.sidebar]
-    backgroundImage = 'static/images/planet-moon.jpg' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+    backgroundImage = '/images/planet-moon.jpg' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
     gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-    logo = "static/images/portrait.jpg" # - default "/images/edna-west.jpg"
+    logo = "/images/portrait.jpg" # - default "/images/edna-west.jpg"
 
 [params.assets]
     favicon = ""
