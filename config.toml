@@ -1,4 +1,4 @@
-baseURL = 'https://momzw.github.io/webpage'
+baseURL = 'https://github.com/momzw/webpage'
 languageCode = 'en-us'
 title = 'My Personal Webpage'
 theme = 'personal-web'
