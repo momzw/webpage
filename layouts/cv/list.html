@@ -1,0 +1,12 @@
+{{ partial "header" .}}
+
+  <h1 id="title"> {{ .Title }}</h1>
+  {{ .Content }}
+
+  <div class="cv-list">
+    {{ range .Pages.ByPublishDate.Reverse }}
+      {{ partial "cv/item" .}}
+    {{ end }}
+  </div>
+
+{{ partial "footer" .}}
