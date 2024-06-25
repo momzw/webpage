@@ -5,7 +5,7 @@ date: "2024-01-02T00:00:09+02:00"
 jobDate: 2024
 work: [research, sun, radiative transfer]
 techs: [C, C++, Python]
-thumbnail: inversions/stic.png
+thumbnail: images/stic.png
 projectUrl: https://github.com/jaimedelacruz/stic
 ---
 
