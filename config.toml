@@ -28,14 +28,14 @@ pygmentsCodeFences=true
     rendererSafe = true # set to true if wish to remove the unsafe renderer setting below (recommended). Titles will not be run through markdownify
 
 [params.notFound]
-    gopher = "/webpage/images/gopher.png" # checkout https://gopherize.me/
+    gopher = "/images/gopher.png" # checkout https://gopherize.me/
     h1 = 'Bummer!'
     p = "It seems that this page doesn't exist."
 
 [params.sidebar]
-    backgroundImage = '/webpage/images/planet-moon.jpg' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+    backgroundImage = '/images/planet-moon.jpg' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
     gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-    logo = "/webpage/images/portrait.jpg" # - default "/images/edna-west.jpg"
+    logo = "/images/portrait.jpg" # - default "/images/edna-west.jpg"
 
 [params.assets]
     favicon = ""
