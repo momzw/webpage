@@ -28,12 +28,12 @@ pygmentsCodeFences=true
     rendererSafe = true # set to true if wish to remove the unsafe renderer setting below (recommended). Titles will not be run through markdownify
 
 [params.notFound]
-    gopher = "/images/gopher.png" # checkout https://gopherize.me/
+    gopher = "/webpage/images/gopher.png" # checkout https://gopherize.me/
     h1 = 'Bummer!'
     p = "It seems that this page doesn't exist."
 
 [params.sidebar]
-    backgroundImage = '/images/planet-moon.jpg' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+    backgroundImage = '/webpage/images/planet-moon.jpg' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
     gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
     logo = "/webpage/images/portrait.jpg" # - default "/images/edna-west.jpg"
 
@@ -55,14 +55,14 @@ pygmentsCodeFences=true
     identifier = "about"
     name = "About"
     title = "About section"
-    url = "/about/"
+    url = "/about"
     weight = -130
 
 [[menu.main]]
     identifier = "cv"
     name = "CV"
     title = "Curriculum Vitae"
-    url = "/cv/"
+    url = "/cv"
     weight = -120
 
 
@@ -70,14 +70,14 @@ pygmentsCodeFences=true
     identifier = "portfolio"
     name = "Portfolio"
     title = "Portfolio"
-    url = "/portfolio/"
+    url = "/portfolio"
     weight = -110
 
 [[menu.main]]
     identifier = "post"
     name = "Posts"
     title = "Posts section"
-    url = "/post/"
+    url = "/post"
     weight = -100
 
 [[menu.main]]
