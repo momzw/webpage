@@ -5,7 +5,7 @@ date: "2024-05-01T00:00:09+02:00"
 jobDate: 2023-ongoing
 work: [research, sun, machine learning]
 techs: [Python, PyTorch]
-thumbnail: images/sun.jpg
+thumbnail: flare-forecasting/sun.jpg
 projectUrl: https://www.sampleorganization.org
 ---
 
