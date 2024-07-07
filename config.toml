@@ -56,14 +56,14 @@ relativeURLs=true
     identifier = "about"
     name = "About"
     title = "About section"
-    url = "/about/"
+    url = "/webpage/about/"
     weight = -130
 
 [[menu.main]]
     identifier = "cv"
     name = "CV"
     title = "Curriculum Vitae"
-    url = "/cv/"
+    url = "/webpage/cv/"
     weight = -120
 
 
@@ -71,21 +71,21 @@ relativeURLs=true
     identifier = "portfolio"
     name = "Portfolio"
     title = "Portfolio"
-    url = "/portfolio/"
+    url = "/webpage/portfolio/"
     weight = -110
 
 [[menu.main]]
     identifier = "post"
     name = "Posts"
     title = "Posts section"
-    url = "/post/"
+    url = "/webpage/post/"
     weight = -100
 
 [[menu.main]]
     identifier = "solar"
     name = "Solar Machine Learning"
     title = "Solar section"
-    url = "/solar-flare-forecasting"
+    url = "/webpage/solar-flare-forecasting"
     weight = -90
 
 
