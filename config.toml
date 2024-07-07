@@ -6,6 +6,7 @@ enableEmoji=true
 enableRobotsTXT=true
 pygmentsUseClasses=true
 pygmentsCodeFences=true
+relativeURLs=true
 
 [params.intro]
     main = "Hi, I'm Moritz :wave:"
@@ -28,7 +29,7 @@ pygmentsCodeFences=true
     rendererSafe = true # set to true if wish to remove the unsafe renderer setting below (recommended). Titles will not be run through markdownify
 
 [params.notFound]
-    gopher = "/images/gopher.jpg" # checkout https://gopherize.me/
+    gopher = "/images/gopher.png" # checkout https://gopherize.me/
     h1 = 'Bummer!'
     p = "It seems that this page doesn't exist."
 
