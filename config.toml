@@ -1,6 +1,6 @@
 baseURL = 'https://momzw.github.io/'
 languageCode = 'en-us'
-title = 'My Personal Webpage'
+title = 'Welcome to My Personal Webpage!'
 theme = 'personal-web'
 enableEmoji=true
 enableRobotsTXT=true
