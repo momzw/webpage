@@ -1,6 +1,6 @@
 baseURL = 'https://moritz.meyerzuwestram.net/'
 languageCode = 'en-us'
-title = 'My Personal Webpage'
+title = 'Welcome to My Personal Webpage!'
 theme = 'personal-web'
 enableEmoji=true
 enableRobotsTXT=true
