@@ -4,7 +4,7 @@ description: Welcome to this sample project
 images: ["/images/sample.jpg"]
 ---
 
-Heyhey,
+Hey,
 
 I'm Moritz Meyer zu Westram, an Astrophysicist and Developer.
 
