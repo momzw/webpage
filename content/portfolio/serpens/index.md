@@ -6,7 +6,7 @@ jobDate: 2022-ongoing
 work: [research, exoplanets, monte-carlo]
 techs: [Python, C, REBOUND]
 designs: [Matplotlib, Photoshop]
-thumbnail: serpens/serpens_w69.png
+thumbnail: serpens_w69.png
 projectUrl: https://github.com/momzw/SERPENS
 ---
 
